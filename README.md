@@ -26,8 +26,7 @@ Analyzed 300 student responses from a college event survey to uncover satisfacti
 | `FUTURE_DS_03.ipynb` | Complete analysis notebook |
 
 ## 📈 Visualizations
-![Ratings Distribution](https://github.com/pawan483/FUTURE_DS_03/raw/main/ratings_plot.png)
-![Sentiment Analysis](https://github.com/pawan483/FUTURE_DS_03/raw/main/sentiment_plot.png)
+![Ratings Distribution](https://github.com/pawan483/FUTURE_DS_03/raw/main/visualization.png)
 
 ##  Business Recommendations
 1. **Improve food quality** (lowest rating: 2.8/5)
