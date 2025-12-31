@@ -1,0 +1,301 @@
+Timestamp,Email,Overall_Rating,Session1_Rating,Session2_Rating,Venue_Rating,Food_Rating,Attend_Again,Recommend,Feedback,Sentiment,Sentiment_Score
+2025-12-15 01:42:00,student0@college.edu,3,4,5,3,3,Maybe,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 07:15:00,student1@college.edu,5,3,3,4,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:48:00,student2@college.edu,4,3,3,5,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:30:00,student3@college.edu,3,3,4,5,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:46:00,student4@college.edu,4,2,4,1,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:11:00,student5@college.edu,4,3,4,4,3,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:08:00,student6@college.edu,5,3,2,4,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 00:20:00,student7@college.edu,3,4,4,5,2,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:42:00,student8@college.edu,3,5,4,5,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:01:00,student9@college.edu,4,4,4,5,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 07:46:00,student10@college.edu,5,3,4,4,1,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:34:00,student11@college.edu,3,1,4,5,3,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:30:00,student12@college.edu,2,5,4,2,1,Yes,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 07:38:00,student13@college.edu,5,5,4,3,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:27:00,student14@college.edu,3,3,4,4,3,Yes,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 06:12:00,student15@college.edu,4,4,5,3,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:39:00,student16@college.edu,5,1,1,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:59:00,student17@college.edu,4,2,4,5,1,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:31:00,student18@college.edu,4,2,4,4,3,No,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:10:00,student19@college.edu,3,3,4,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:29:00,student20@college.edu,4,5,4,5,2,No,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:08:00,student21@college.edu,4,4,5,5,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:17:00,student22@college.edu,3,3,5,5,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:43:00,student23@college.edu,3,4,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:53:00,student24@college.edu,5,5,3,5,3,Maybe,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:53:00,student25@college.edu,4,5,4,5,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:25:00,student26@college.edu,3,1,3,2,2,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:11:00,student27@college.edu,5,3,4,4,2,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 07:23:00,student28@college.edu,5,2,5,5,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:36:00,student29@college.edu,4,3,3,4,3,No,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:40:00,student30@college.edu,5,2,2,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:39:00,student31@college.edu,3,4,3,3,3,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 05:13:00,student32@college.edu,3,3,4,2,3,Yes,No,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 00:21:00,student33@college.edu,4,2,4,4,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:12:00,student34@college.edu,5,3,2,2,3,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 03:55:00,student35@college.edu,5,3,5,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:44:00,student36@college.edu,4,3,5,5,5,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:48:00,student37@college.edu,5,3,1,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:54:00,student38@college.edu,5,1,4,5,2,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:58:00,student39@college.edu,5,3,5,3,2,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:49:00,student40@college.edu,4,3,4,4,3,No,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:55:00,student41@college.edu,4,4,2,5,2,Maybe,No,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 03:07:00,student42@college.edu,4,3,2,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:43:00,student43@college.edu,3,2,2,4,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:30:00,student44@college.edu,5,1,5,4,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:09:00,student45@college.edu,5,5,5,4,3,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 07:25:00,student46@college.edu,3,3,3,5,4,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:54:00,student47@college.edu,3,4,3,5,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:25:00,student48@college.edu,4,5,3,4,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:50:00,student49@college.edu,4,2,3,5,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:03:00,student50@college.edu,5,4,5,5,5,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:54:00,student51@college.edu,3,4,4,2,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:03:00,student52@college.edu,1,2,4,5,2,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 05:19:00,student53@college.edu,4,3,3,5,1,Maybe,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:10:00,student54@college.edu,3,4,4,4,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:06:00,student55@college.edu,3,3,4,4,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:14:00,student56@college.edu,4,5,4,4,2,Yes,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:20:00,student57@college.edu,4,3,3,4,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:28:00,student58@college.edu,3,4,5,2,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:46:00,student59@college.edu,4,3,4,5,3,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:33:00,student60@college.edu,4,4,3,2,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:27:00,student61@college.edu,4,4,4,4,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:28:00,student62@college.edu,3,1,5,5,3,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:15:00,student63@college.edu,4,1,5,5,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:13:00,student64@college.edu,5,2,4,4,1,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:01:00,student65@college.edu,4,1,4,4,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:24:00,student66@college.edu,5,1,5,1,5,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:45:00,student67@college.edu,4,4,4,5,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:52:00,student68@college.edu,3,4,2,2,2,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 06:25:00,student69@college.edu,4,4,5,5,3,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 05:39:00,student70@college.edu,4,5,3,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:31:00,student71@college.edu,5,4,4,3,3,Maybe,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:06:00,student72@college.edu,3,4,3,5,1,Maybe,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:23:00,student73@college.edu,4,4,2,5,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:34:00,student74@college.edu,4,3,4,2,1,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:07:00,student75@college.edu,4,3,5,5,5,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:23:00,student76@college.edu,1,2,3,4,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:10:00,student77@college.edu,5,3,3,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:34:00,student78@college.edu,4,3,3,5,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:25:00,student79@college.edu,3,2,4,5,4,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 01:20:00,student80@college.edu,5,4,5,5,2,No,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:59:00,student81@college.edu,4,4,4,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:49:00,student82@college.edu,5,1,4,5,5,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 05:59:00,student83@college.edu,3,3,5,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:27:00,student84@college.edu,4,1,4,5,3,Maybe,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 00:01:00,student85@college.edu,4,3,3,4,5,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:29:00,student86@college.edu,5,3,3,3,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:53:00,student87@college.edu,2,4,3,3,1,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 01:45:00,student88@college.edu,3,3,4,4,2,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:19:00,student89@college.edu,3,4,4,4,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:09:00,student90@college.edu,3,5,5,5,4,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 07:56:00,student91@college.edu,4,2,4,3,4,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:10:00,student92@college.edu,3,4,4,5,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:41:00,student93@college.edu,3,4,4,3,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:37:00,student94@college.edu,5,3,4,5,5,Yes,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:43:00,student95@college.edu,5,3,5,5,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:41:00,student96@college.edu,2,4,4,4,5,Yes,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 03:21:00,student97@college.edu,3,4,3,5,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:25:00,student98@college.edu,4,4,4,1,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:29:00,student99@college.edu,3,5,4,5,3,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 05:50:00,student100@college.edu,3,4,4,4,2,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 05:03:00,student101@college.edu,3,5,4,5,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:30:00,student102@college.edu,3,4,4,1,3,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:35:00,student103@college.edu,5,4,5,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:41:00,student104@college.edu,2,4,2,5,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:34:00,student105@college.edu,4,2,4,4,5,Maybe,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 04:11:00,student106@college.edu,4,4,2,3,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:09:00,student107@college.edu,3,4,4,3,1,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:55:00,student108@college.edu,4,3,3,4,2,Yes,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 03:32:00,student109@college.edu,3,5,5,5,1,No,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:27:00,student110@college.edu,4,3,4,3,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:56:00,student111@college.edu,2,3,5,4,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:37:00,student112@college.edu,1,4,5,1,5,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:06:00,student113@college.edu,4,4,5,5,3,No,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 00:52:00,student114@college.edu,3,3,5,3,5,Maybe,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:39:00,student115@college.edu,2,4,4,4,4,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 06:49:00,student116@college.edu,3,4,4,1,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:36:00,student117@college.edu,2,1,3,4,4,No,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 04:11:00,student118@college.edu,5,1,3,5,2,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 03:07:00,student119@college.edu,1,4,4,4,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:19:00,student120@college.edu,4,3,4,3,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:40:00,student121@college.edu,4,2,4,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:36:00,student122@college.edu,4,4,4,5,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 00:14:00,student123@college.edu,3,3,5,3,3,Yes,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 05:00:00,student124@college.edu,3,4,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:04:00,student125@college.edu,5,3,4,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:44:00,student126@college.edu,5,4,5,3,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:26:00,student127@college.edu,5,3,5,5,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:08:00,student128@college.edu,3,4,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:43:00,student129@college.edu,1,2,5,4,3,No,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:08:00,student130@college.edu,3,4,5,2,1,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:15:00,student131@college.edu,4,3,5,3,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 07:51:00,student132@college.edu,3,4,3,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:02:00,student133@college.edu,5,3,4,5,3,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:18:00,student134@college.edu,3,5,4,5,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:20:00,student135@college.edu,5,4,2,4,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:31:00,student136@college.edu,4,2,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:42:00,student137@college.edu,5,4,4,5,5,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 06:58:00,student138@college.edu,3,3,5,4,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:48:00,student139@college.edu,4,3,3,2,5,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:18:00,student140@college.edu,4,1,5,5,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:20:00,student141@college.edu,2,4,4,4,1,No,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:50:00,student142@college.edu,2,4,4,5,1,No,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:40:00,student143@college.edu,5,3,5,4,3,No,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:27:00,student144@college.edu,4,5,4,1,2,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:14:00,student145@college.edu,1,2,4,3,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:20:00,student146@college.edu,3,3,5,4,2,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 05:27:00,student147@college.edu,4,3,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:27:00,student148@college.edu,4,2,2,3,4,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 06:57:00,student149@college.edu,3,3,5,5,4,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:32:00,student150@college.edu,3,4,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:47:00,student151@college.edu,2,3,5,5,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:46:00,student152@college.edu,4,2,4,4,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:01:00,student153@college.edu,4,3,5,5,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:35:00,student154@college.edu,2,1,3,5,1,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:52:00,student155@college.edu,5,4,5,4,5,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:38:00,student156@college.edu,4,2,5,3,3,No,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:51:00,student157@college.edu,3,4,3,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:59:00,student158@college.edu,2,5,4,5,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:33:00,student159@college.edu,3,4,5,2,3,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 07:54:00,student160@college.edu,5,5,4,5,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:34:00,student161@college.edu,4,3,3,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:28:00,student162@college.edu,4,4,4,5,3,No,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:46:00,student163@college.edu,4,4,4,5,3,Yes,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 01:40:00,student164@college.edu,4,4,4,5,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:10:00,student165@college.edu,4,1,4,4,5,Yes,No,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 07:41:00,student166@college.edu,1,2,4,4,3,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:10:00,student167@college.edu,4,2,3,4,3,Yes,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 04:16:00,student168@college.edu,3,4,4,5,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:04:00,student169@college.edu,2,4,4,5,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:37:00,student170@college.edu,3,4,3,3,2,No,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 04:14:00,student171@college.edu,2,1,5,5,5,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:37:00,student172@college.edu,2,4,4,5,4,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:58:00,student173@college.edu,3,3,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:42:00,student174@college.edu,5,3,5,4,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:32:00,student175@college.edu,3,2,4,5,4,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:26:00,student176@college.edu,1,4,5,3,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:14:00,student177@college.edu,4,2,4,3,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:45:00,student178@college.edu,5,4,2,3,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:41:00,student179@college.edu,3,4,4,3,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:19:00,student180@college.edu,4,2,4,4,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:40:00,student181@college.edu,4,4,4,5,5,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:58:00,student182@college.edu,1,3,2,1,3,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:02:00,student183@college.edu,5,3,3,5,1,No,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:51:00,student184@college.edu,5,3,3,4,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:50:00,student185@college.edu,3,3,3,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:00:00,student186@college.edu,1,4,4,5,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:51:00,student187@college.edu,5,3,3,3,1,No,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:35:00,student188@college.edu,4,4,4,4,1,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:27:00,student189@college.edu,4,4,4,1,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 03:41:00,student190@college.edu,4,4,4,5,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:46:00,student191@college.edu,4,4,5,5,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 03:50:00,student192@college.edu,5,4,4,4,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:56:00,student193@college.edu,5,3,5,5,3,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:22:00,student194@college.edu,5,3,4,4,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:50:00,student195@college.edu,4,5,4,3,2,No,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:28:00,student196@college.edu,5,4,5,5,5,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:35:00,student197@college.edu,4,3,3,4,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:12:00,student198@college.edu,4,3,2,5,3,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:39:00,student199@college.edu,2,3,5,4,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:26:00,student200@college.edu,5,5,2,5,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:06:00,student201@college.edu,5,1,5,3,4,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:02:00,student202@college.edu,4,2,4,4,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:25:00,student203@college.edu,5,3,5,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:43:00,student204@college.edu,4,3,4,4,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:05:00,student205@college.edu,3,4,4,5,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:49:00,student206@college.edu,3,2,5,5,1,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:44:00,student207@college.edu,3,4,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:01:00,student208@college.edu,3,1,5,5,2,No,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 07:20:00,student209@college.edu,1,4,3,5,2,Yes,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:13:00,student210@college.edu,4,1,4,5,4,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 04:43:00,student211@college.edu,3,1,3,5,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:27:00,student212@college.edu,4,4,4,5,3,Yes,No,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 01:47:00,student213@college.edu,3,5,3,3,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:43:00,student214@college.edu,4,5,5,3,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:39:00,student215@college.edu,3,4,5,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:45:00,student216@college.edu,3,5,5,1,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:25:00,student217@college.edu,4,1,3,4,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:30:00,student218@college.edu,4,5,4,3,2,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:07:00,student219@college.edu,3,3,4,4,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:47:00,student220@college.edu,5,4,4,5,1,Maybe,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 07:52:00,student221@college.edu,1,4,4,5,1,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 03:50:00,student222@college.edu,4,4,4,3,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:09:00,student223@college.edu,5,4,4,5,3,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:44:00,student224@college.edu,4,3,4,5,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:24:00,student225@college.edu,4,4,4,3,3,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:16:00,student226@college.edu,4,2,2,5,3,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 04:42:00,student227@college.edu,4,5,2,4,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:25:00,student228@college.edu,4,4,1,4,1,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:00:00,student229@college.edu,2,2,5,5,2,Maybe,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 01:55:00,student230@college.edu,3,4,1,3,4,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 07:40:00,student231@college.edu,4,3,2,5,3,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 03:52:00,student232@college.edu,5,4,4,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:18:00,student233@college.edu,4,4,5,2,5,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 05:58:00,student234@college.edu,3,2,5,5,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:17:00,student235@college.edu,4,3,5,5,2,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 07:35:00,student236@college.edu,4,5,4,3,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 06:50:00,student237@college.edu,3,3,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:16:00,student238@college.edu,3,4,2,5,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:17:00,student239@college.edu,4,3,5,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:44:00,student240@college.edu,4,3,4,5,2,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 03:44:00,student241@college.edu,3,4,4,4,3,Maybe,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 05:06:00,student242@college.edu,3,4,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:53:00,student243@college.edu,2,2,4,5,4,Maybe,No,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:51:00,student244@college.edu,2,4,4,5,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:31:00,student245@college.edu,5,2,5,5,1,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:42:00,student246@college.edu,5,2,5,5,3,Maybe,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:14:00,student247@college.edu,3,1,4,4,2,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:13:00,student248@college.edu,5,2,4,5,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:39:00,student249@college.edu,4,3,2,5,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:35:00,student250@college.edu,4,4,4,5,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:51:00,student251@college.edu,4,4,2,5,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 03:52:00,student252@college.edu,2,2,4,4,2,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:59:00,student253@college.edu,2,4,5,2,1,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 01:52:00,student254@college.edu,4,4,4,3,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:17:00,student255@college.edu,4,3,4,4,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:21:00,student256@college.edu,3,5,4,5,5,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:51:00,student257@college.edu,5,5,3,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:27:00,student258@college.edu,4,2,4,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:54:00,student259@college.edu,2,3,3,4,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 06:25:00,student260@college.edu,5,5,3,5,1,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 06:26:00,student261@college.edu,5,4,4,4,5,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:52:00,student262@college.edu,5,1,5,4,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:40:00,student263@college.edu,2,4,4,5,4,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:52:00,student264@college.edu,4,4,2,5,2,Maybe,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 07:19:00,student265@college.edu,4,4,4,4,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:20:00,student266@college.edu,4,4,4,2,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:06:00,student267@college.edu,5,4,4,3,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 01:52:00,student268@college.edu,4,2,4,2,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:01:00,student269@college.edu,5,3,4,5,2,Maybe,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 02:09:00,student270@college.edu,5,4,4,4,5,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:39:00,student271@college.edu,5,5,4,5,3,Yes,Maybe,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 00:53:00,student272@college.edu,4,3,5,4,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:42:00,student273@college.edu,3,4,4,3,1,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:43:00,student274@college.edu,3,4,4,4,5,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:44:00,student275@college.edu,5,3,4,4,1,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:24:00,student276@college.edu,2,4,4,4,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:42:00,student277@college.edu,4,5,5,3,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:05:00,student278@college.edu,3,4,4,5,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:09:00,student279@college.edu,4,4,4,3,3,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 00:52:00,student280@college.edu,5,3,4,5,1,No,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:51:00,student281@college.edu,5,4,4,4,2,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:37:00,student282@college.edu,3,3,4,5,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 02:39:00,student283@college.edu,5,3,5,5,4,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:17:00,student284@college.edu,4,4,4,5,3,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:55:00,student285@college.edu,3,1,4,5,3,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 04:06:00,student286@college.edu,4,2,5,4,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:23:00,student287@college.edu,4,4,1,5,1,Yes,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 07:18:00,student288@college.edu,3,3,3,4,1,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 03:22:00,student289@college.edu,4,3,4,5,2,Yes,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:03:00,student290@college.edu,3,4,5,2,2,Maybe,Maybe,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 02:02:00,student291@college.edu,3,4,2,4,2,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:40:00,student292@college.edu,4,2,1,5,2,Maybe,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:14:00,student293@college.edu,3,4,2,5,2,Yes,Yes,"Technical issues in session 1, venue parking difficult.",Negative,-0.25
+2025-12-15 04:53:00,student294@college.edu,4,3,2,5,3,Yes,Maybe,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 04:39:00,student295@college.edu,4,4,2,5,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 05:24:00,student296@college.edu,4,4,4,5,2,Yes,No,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 06:11:00,student297@college.edu,4,5,4,4,5,Yes,Yes,"Food was average, more breaks needed.",Positive,0.175
+2025-12-15 01:37:00,student298@college.edu,5,4,3,4,4,Maybe,Yes,"Great speakers, good networking!",Positive,0.8375
+2025-12-15 03:17:00,student299@college.edu,4,4,4,4,2,No,Yes,"Food was average, more breaks needed.",Positive,0.175
